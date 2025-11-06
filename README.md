@@ -72,7 +72,9 @@ integration, aiming to grow as a Backend & MLOps Engineer delivering impactful a
 
 ---
 
+![Sena's GitHub stats](https://github-readme-stats.vercel.app/api?username=senayukseel&show_icons=true&theme=vue-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senayukseel&layout=compact&theme=vue-dark)
+
 <img width=400 src='https://streak-stats.demolab.com?user=senayukseel&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=senayukseel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=senayukseel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
