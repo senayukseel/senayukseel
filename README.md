@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sena Yuksel</h1>
 <h3 align="center">Backend Developer & AI Engineer</h3>
 
-Backend and AI Engineer experienced in building scalable RESTful services and deploying machine learning models 
-to production using Python (Django, FastAPI) and Java (Spring Boot). Skilled in computer vision and system 
-integration, aiming to grow as a Backend & MLOps Engineer delivering impactful and reliable solutions. 
+Backend Developer with experience in designing and developing scalable backend systems using .NET (C#) and Java Spring Boot. 
+I mainly focus on backend development with .NET, building RESTful APIs, microservice architectures. I also have experience with Spring Boot for additional backend solutions. Alongside backend engineering, I work on AI/ML and computer vision projects using Python (FastAPI, TensorFlow, Pytorch), with an interest in integrating machine learning models into production systems.
+My goal is to grow as a Backend & AI Engineer, focusing on scalable, production-ready and high-performance systems.
 
-- 🌱 I’m currently working on: **Spring Boot**,**Django REST Framework**, **Machine Learning & Computer Vision**
+- 🌱 I’m currently working on: **Spring Boot**,**.Net**, **Machine Learning & Computer Vision**
 
 - 💬 Ask me about  
-  - **Django & Spring Boot backend development**  
+  - **.Net & Spring Boot backend development**  
   - **Building RESTful APIs**  
   - **Integrating AI/ML models into web projects**  
   - **Image processing and TensorFlow basics**
@@ -38,6 +38,7 @@ integration, aiming to grow as a Backend & MLOps Engineer delivering impactful a
 
 <td align="center" width="200px">
   <h3>Frameworks</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="55" height="55"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="55" height="55" alt="django"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55" height="55" alt="spring"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55" alt="react"/>
@@ -72,9 +73,9 @@ integration, aiming to grow as a Backend & MLOps Engineer delivering impactful a
 
 ---
 
-![Sena's GitHub stats](https://github-readme-stats.vercel.app/api?username=senayukseel&show_icons=true&theme=vue-dark)
+<!--![Sena's GitHub stats](https://github-readme-stats.vercel.app/api?username=senayukseel&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senayukseel&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senayukseel&layout=compact&theme=vue-dark)-->
 
 <img width=400 src='https://streak-stats.demolab.com?user=senayukseel&theme=vue-dark&hide_border=true' />
 
